@@ -1,5 +1,0 @@
-MS-AST系统-代码.md filter=lfs diff=lfs merge=lfs -text
-MS-AST表格数据 filter=lfs diff=lfs merge=lfs -text
-2112244231_data.txt filter=lfs diff=lfs merge=lfs -text
-Clinical_application filter=lfs diff=lfs merge=lfs -text
-EV_Dazu_summary2 filter=lfs diff=lfs merge=lfs -text
